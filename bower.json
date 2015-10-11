@@ -1,0 +1,23 @@
+{
+  "name": "beMyPet",
+  "version": "0.0.0",
+  "authors": [
+    "Sarthak Sharma <7lovesharma7@gmail.com>"
+  ],
+  "description": "Adobt pets",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-resource": "~1.4.6",
+    "angular-route": "~1.4.6",
+    "jquery": "~2.1.4"
+  }
+}
